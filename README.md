@@ -63,8 +63,9 @@ resId	int: The new text for this BaseTransientBottomBar.<br>
 **Returns:**<br>
 Snackbar<br>
 
-
-
+## References:
+https://developer.android.com/reference/android/support/design/widget/Snackbar
+https://www.androidhive.info/2015/09/android-material-design-snackbar-example/
 
 
 
